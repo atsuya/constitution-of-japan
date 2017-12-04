@@ -12,6 +12,13 @@
 - データ
   - https://jimin.ncss.nifty.com/pdf/news/policy/130250_1.pdf
 
+## 日本のこころ:（日本のこころ）日本国憲法草案-2017-04-27
+
+- 差分
+  - https://github.com/atsuya/constitution-of-japan/pull/6/files
+- データ
+  - http://nippon-kokoro.jp/news/policies/kenpo01.php
+
 
 # スタイルガイド
 
