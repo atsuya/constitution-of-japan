@@ -5,14 +5,25 @@
 
 # 改正案 (あいうえお順)
 
-## 自由民主党: 日本国憲法改正草案-2012-04-27
+## 自由民主党
+
+### 日本国憲法改正たたき台素案-2018-03-25
+
+- 差分
+  - https://github.com/atsuya/constitution-of-japan/pull/7/files
+- データ
+  - http://www5.sdp.or.jp/policy/policy/constitution/180620.pdf
+
+### 日本国憲法改正草案-2012-04-27
 
 - 差分
   - https://github.com/atsuya/constitution-of-japan/pull/1/files
 - データ
   - https://jimin.ncss.nifty.com/pdf/news/policy/130250_1.pdf
 
-## 日本のこころ:（日本のこころ）日本国憲法草案-2017-04-27
+## 日本のこころ
+
+### （日本のこころ）日本国憲法草案-2017-04-27
 
 - 差分
   - https://github.com/atsuya/constitution-of-japan/pull/6/files
